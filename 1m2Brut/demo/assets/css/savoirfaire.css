@@ -1,0 +1,36 @@
+.container .section1{
+    margin-left: 35%;
+    margin-top: 2cm;
+}
+.container1{
+    position: relative;
+    padding-top: 5cm;
+    width: 100%;
+    
+}
+h3,h2,p{
+    color: white;
+}
+h3{
+    font-family: 'cinzel';
+    font-size:xx-large;
+    margin-left: 45%;
+}
+
+.wrapper .sidebar ul li:hover{
+    background: white;
+    opacity:0.5 ;
+    
+  } 
+  .wrapper .sidebar ul li:hover a{
+    background: white;
+    opacity:0.5 ;
+    color: #010101;
+  }
+  .wrapper .sidebar ul li:hover .fas{
+    background: white;
+    opacity:0.5 ;
+    color: #010101;
+  }
+   
+
